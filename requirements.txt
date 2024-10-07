@@ -1,2 +1,4 @@
 wxPython
 pywebview
+pyyaml
+pyinstaller
